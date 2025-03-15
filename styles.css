@@ -39,7 +39,7 @@ nav ul li a {
 }
 
 /* Specific Section (About) Styling */
-#about {
+#featured {
     background-color: #2DE4ED; /* Blue background for the About section */
     color: white;           /* White text to contrast with the blue background */
     padding: 20px;          /* Add padding inside the section */
