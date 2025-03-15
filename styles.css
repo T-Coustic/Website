@@ -15,8 +15,7 @@ body {
 
 /* Header Styling */
 header {
-    background-color: blue; /* Blue background for the header */
-    color: white;            /* White text inside the header */
+    color: black;
     text-align: center;
     padding: 20px;
 }
