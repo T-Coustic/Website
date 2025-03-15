@@ -20,6 +20,7 @@ header {
     color: Black;
     text-align: center;
     padding: 20px;
+    z-index: 100;
 }
 
 /* Navigation Styling */
