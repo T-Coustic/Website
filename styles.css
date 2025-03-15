@@ -69,6 +69,22 @@ section h2 {
     color: #333;
 }
 
+.carousel {
+    position: relative;
+    max-width: 100%;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.carousel-slide {
+    display: none;
+}
+
+.carousel-slide img {
+    width: 100%;
+    height: auto;
+}
+
 footer {
     text-align: center;
     padding: 10px;
