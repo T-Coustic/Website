@@ -43,7 +43,16 @@ nav ul li a {
     background-color: #2DE4ED; /* Blue background for the About section */
     color: white;           /* White text to contrast with the blue background */
     padding: 20px;          /* Add padding inside the section */
-    margin: 20px 0;         /* Add margin for spacing between sections */
+    margin: 20px 0;  /* Add margin for spacing between sections */
+    text-align: center;
+}
+
+#projects{
+    text-align: center;
+}
+
+#skills{
+    text-align: center;
 }
 
 /* Section Styling */
