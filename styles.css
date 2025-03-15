@@ -21,6 +21,7 @@ header {
     text-align: center;
     padding: 20px;
     z-index: 100;
+    background-color: white;
 }
 
 /* Navigation Styling */
